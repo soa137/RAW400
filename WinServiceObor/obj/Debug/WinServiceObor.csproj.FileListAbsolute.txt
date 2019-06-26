@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\RAW400\WinServiceObor\bin\Debug\WinServiceObor.exe.config
+C:\Users\User\source\repos\RAW400\WinServiceObor\bin\Debug\WinServiceObor.exe
+C:\Users\User\source\repos\RAW400\WinServiceObor\bin\Debug\WinServiceObor.pdb
+C:\Users\User\source\repos\RAW400\WinServiceObor\bin\Debug\Devart.Data.dll
+C:\Users\User\source\repos\RAW400\WinServiceObor\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\User\source\repos\RAW400\WinServiceObor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\RAW400\WinServiceObor\bin\Debug\Devart.Data.xml
+C:\Users\User\source\repos\RAW400\WinServiceObor\bin\Debug\Devart.Data.Oracle.xml
+C:\Users\User\source\repos\RAW400\WinServiceObor\obj\Debug\WinServiceObor.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\RAW400\WinServiceObor\obj\Debug\WinServiceObor.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RAW400\WinServiceObor\obj\Debug\WinServiceObor.exe
+C:\Users\User\source\repos\RAW400\WinServiceObor\obj\Debug\WinServiceObor.pdb

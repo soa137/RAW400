@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>a92ef2ce-d4e7-476d-b575-1c94e612ae7c</SharedGUID>
+  </PropertyGroup>
+  <PropertyGroup Label="Configuration">
+    <Import_RootNamespace>OraPackages</Import_RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)OperZagotPkg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SmzPeriodPkg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SmzPrincipalPkg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)SmzResourcePkg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)CollectionPkg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)WorkPkg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)VVFactPkg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Ed04Pak.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)DenormPkg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AgrCorePkg .cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NUserPack.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AgrAppPkg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)AgrLifePkg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NPasportPkg.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NTekAppPkg.cs" />
+  </ItemGroup>
+</Project>

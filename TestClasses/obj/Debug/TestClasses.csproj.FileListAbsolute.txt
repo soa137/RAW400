@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\RAW400\TestClasses\bin\Debug\TestClasses.dll
+C:\Users\User\source\repos\RAW400\TestClasses\bin\Debug\TestClasses.pdb
+C:\Users\User\source\repos\RAW400\TestClasses\bin\Debug\Devart.Data.dll
+C:\Users\User\source\repos\RAW400\TestClasses\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\User\source\repos\RAW400\TestClasses\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\RAW400\TestClasses\bin\Debug\Devart.Data.xml
+C:\Users\User\source\repos\RAW400\TestClasses\bin\Debug\Devart.Data.Oracle.xml
+C:\Users\User\source\repos\RAW400\TestClasses\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\RAW400\TestClasses\obj\Debug\TestClasses.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\RAW400\TestClasses\obj\Debug\TestClasses.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RAW400\TestClasses\obj\Debug\TestClasses.dll
+C:\Users\User\source\repos\RAW400\TestClasses\obj\Debug\TestClasses.pdb

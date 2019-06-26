@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\RAW400\Console\bin\Debug\Console.exe.config
+C:\Users\User\source\repos\RAW400\Console\bin\Debug\Console.exe
+C:\Users\User\source\repos\RAW400\Console\bin\Debug\Console.pdb
+C:\Users\User\source\repos\RAW400\Console\bin\Debug\Devart.Data.dll
+C:\Users\User\source\repos\RAW400\Console\bin\Debug\Devart.Data.Oracle.dll
+C:\Users\User\source\repos\RAW400\Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\RAW400\Console\bin\Debug\Devart.Data.xml
+C:\Users\User\source\repos\RAW400\Console\bin\Debug\Devart.Data.Oracle.xml
+C:\Users\User\source\repos\RAW400\Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\RAW400\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\RAW400\Console\obj\Debug\Console.exe
+C:\Users\User\source\repos\RAW400\Console\obj\Debug\Console.pdb
